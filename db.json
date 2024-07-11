@@ -1,0 +1,6 @@
+{
+  "simple_block": {
+    "title": "Simple Block Title From API",
+    "content": "This block title is dynamically sourced from an API, allowing for flexible and real-time content updates. By leveraging an API, you can ensure that your titles are always current and can reflect the latest data without manual intervention."
+  }
+}
